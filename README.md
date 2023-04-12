@@ -1,10 +1,9 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# README 
+
+- A aplicação contém uma implementação completa de todos os requisitos da Pokédex. O trabalho foi, para cada requisito listado, escrever testes que garantam sua corretude. Foi tomado cuidado com testes falsos positivos.
+Neste projeto foi utilizada as seguintes habilidades:
+Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;
+
+# Tecnologias
+
+- Testar fluxos lógicos assíncronos com a React-Testing-Library.
